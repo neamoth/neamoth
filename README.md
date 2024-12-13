@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/twneamoth" target="blank"><img src="https://img.shields.io/twitter/follow/twneamoth?logo=twitter&style=for-the-badge" alt="twneamoth" /></a> </p>
 
-- 🔭 I’m currently working on **Calculator App**
+- 🔭 I’m currently working on **Reviewing Javascript**
 
-- 🌱 I’m currently learning **React and Java**
+- 🌱 I’m currently learning **React and Javascript**
 
 - 💬 Ask me about **react, java**
 
