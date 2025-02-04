@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/twneamoth" target="blank"><img src="https://img.shields.io/twitter/follow/twneamoth?logo=twitter&style=for-the-badge" alt="twneamoth" /></a> </p>
 
-- 🔭 I’m currently working on **Reviewing Javascript**
+- 🔭 I’m currently working on **Reviewing React**
 
-- 🌱 I’m currently learning **React and Javascript**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react, java**
+- 💬 Ask me about **react**
 
-- 📫 How to reach me **neamothcse@gmail.com**
+- 📫 How to reach me **neamoth15-8202@diu.edu.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
